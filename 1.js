@@ -1,6 +1,6 @@
 console.log('When is Christmas?')
 
-var xmas_day = 25
-var xmas_month = 'December'
+var xmasDay = 25
+var xmasMonth = 'December'
 
-console.log(`Christmas is on ${xmas_day} of ${xmas_month}`)
+console.log(`Christmas is on ${xmasDay} of ${xmasMonth}`)
