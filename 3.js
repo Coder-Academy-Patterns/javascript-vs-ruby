@@ -22,3 +22,12 @@ backToTheFuture = {
 
 displayMovie(forestGump)
 displayMovie(backToTheFuture)
+
+/*
+
+Challenges:
+1. Add another three movies
+2. Add a property for director to each movie, and display it
+3. Convert people from being strings (`Tom Hanks`) to objects (with e.g. first & last name)
+
+*/

@@ -19,3 +19,12 @@ legalFishInCentimetres = legalFishInFeet.map((lengthFeet) => (
 ))
 
 console.log('Legal fish in cm:', legalFishInCentimetres)
+
+/*
+
+Challenges:
+1. Convert the lengths to yards, and output them
+2. Find the longest fish, and output it
+3. Create a sorted copy of the centimetre lengths array, and output it
+
+*/

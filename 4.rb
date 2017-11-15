@@ -3,7 +3,7 @@ def word_count(string)
   words.count
 end
 
-def word_count_table(string)
+def word_frequency_table(string)
   words = string.split(' ')
   word_counts = Hash.new(0)
   words.each do |word|
@@ -15,4 +15,4 @@ end
 sentence = 'the brown fox jumps over the lazy dog'
 puts "There are #{word_count(sentence)} words in: #{sentence}"
 
-puts word_count_table(sentence)
+puts word_frequency_table(sentence)
