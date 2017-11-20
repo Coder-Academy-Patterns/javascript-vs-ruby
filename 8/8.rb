@@ -1,3 +1,4 @@
+# First, you must `gem install colorize`
 require 'colorize'
 
 puts 'Neo, choose the'

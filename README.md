@@ -41,3 +41,18 @@ You can run the JavaScript ones using `node 1.js`.
 
 1. Add a `removeItem(item)` method
 2. Add a `sortItems()` method to sort alphabetically
+
+### 6.rb / 6.js
+
+1. Contrast the differences between 6.js and 6b.js. They both have the same effect, but work differently. 6.js is a more literal translation from 6.rb. Write down everything you see different about the two JavaScript versions.
+
+### 7.rb / 7.js
+
+1. Work out the date in 100 days, and display it
+2. Work out the date 1000 days ago in the past, and display it
+
+### 8.rb / 8.js
+
+1. Display 'The 80s ruled' in yellow text on magenta background.
+2. Display 'RGB' with each letter in its color on a black background
+2. Display 'CMYK' with each letter in its color on a white background
