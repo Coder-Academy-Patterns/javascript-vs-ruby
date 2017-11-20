@@ -2,11 +2,11 @@
 
 A comparison between Ruby and JavaScript is presented for a range of problems and data types. Flick between the .rb and .js to compare what is similar and what is different between the two languages.
 
-The following challenges are for JavaScript.
-
-If you find any too hard, get help from your teachers or fellow students, or try doing it in Ruby first.
-
 ## Challenges
+
+1. Look at the .rb file, and write a new .copy.js from scratch. Use the given .js file as a reference
+2. Do the challenges from the readme.md in ruby first
+3. Then do them in JavaScript
 
 ### 1.rb / 1.js
 
