@@ -16,7 +16,7 @@ You can run the JavaScript ones using `node 1.js`.
 1. Create variables for Anzac Day, and output them
 2. Change your code to use the Date class
   - Ruby hint: `Date.new(…)`
-  — JavaScript hint: `new Date(…)`
+  - JavaScript hint: `new Date(…)`
 
 ### 2.rb / 2.js
 
