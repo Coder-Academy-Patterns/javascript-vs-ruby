@@ -23,6 +23,7 @@ Challenges:
 1. Skip conjuctions (and / or / the / of) from `wordFrequencyTable` function
 2. Skip conjuctions (and / or / the / of) from `wordCount` function
 3. Change the sentence to the "It was the best of times…" chapter 1 excerpt from here: https://en.wikiquote.org/wiki/A_Tale_of_Two_Cities
-4. Find the five most popular words using the result of `wordFrequencyTable`
+4. Update `wordFrequencyTable` to count 'It' and 'it' as the same word
+5. Find the five most popular words using the result of `wordFrequencyTable`
 
 */
