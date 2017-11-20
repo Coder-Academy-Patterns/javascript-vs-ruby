@@ -23,6 +23,7 @@ You can run the JavaScript ones using `node 1.js`.
 1. Convert the lengths to yards, and output them
 2. Find the longest fish, and output it
 3. Create a sorted copy of the centimetre lengths array, and output it
+4. Find average fish length in centimetres
 
 ### 3.rb / 3.js
 
