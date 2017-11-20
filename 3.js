@@ -14,7 +14,7 @@ const forestGump = {
   stars: ['Tom Hanks', 'Robin Wright']
 }
 
-backToTheFuture = {
+const backToTheFuture = {
   title: 'Back to the Future',
   yearReleased: 1985,
   stars: ['Michael J. Fox', 'Christopher Lloyd']
