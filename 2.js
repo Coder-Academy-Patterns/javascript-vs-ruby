@@ -23,9 +23,10 @@ console.log('Legal fish in cm:', legalFishInCentimetres)
 /*
 
 Challenges:
-1. Convert the lengths to yards, and output them
-2. Find the longest fish, and output it
-3. Create a sorted copy of the centimetre lengths array, and output it
-4. Find average fish length in centimetres
+1. Convert the lengths to yards using `.each` (.rb) / `.forEach` (.js), and output them
+2. Convert the lengths to yards using `.map` (.rb) / `.map` (.js), and output them
+3. Find the longest fish, and output it
+4. Create a sorted copy of the centimetre lengths array, and output it
+5. Find average fish length in centimetres
 
 */
