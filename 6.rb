@@ -1,7 +1,8 @@
 def format_ordinal(number)
-  return '11th' if number == 11
-  return '12th' if number == 12
-  return '13th' if number == 13
+  hundred_units = number % 100
+  if hundred_units == 11 || hundred_units == 12 || hundred_units == 13
+    return "#{number}th"
+  end
 
   digit = number % 10
   case digit
@@ -25,3 +26,9 @@ puts format_ordinal(101)
 puts format_ordinal(102)
 puts format_ordinal(103)
 puts format_ordinal(104)
+
+puts format_ordinal(111)
+puts format_ordinal(112)
+puts format_ordinal(113)
+
+puts format_ordinal(213)
